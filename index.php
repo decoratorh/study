@@ -1,2 +1,2 @@
 <?php
-echo 'Hello, Mykola!';
+include './index.html';
